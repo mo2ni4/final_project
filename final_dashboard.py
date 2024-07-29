@@ -16,7 +16,7 @@ st.set_page_config(
 
 
 #--------------Judul Dashboard (margin tengah)
-st.markdown("<h1 style='text-align: center;'> Employee Profiling </h1>",
+st.markdown("<h1 style='text-align: center;'> 👤👥 Employee Profiling 🧐 </h1>",
             unsafe_allow_html=True)
 st.markdown("---")
 
